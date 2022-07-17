@@ -1,5 +1,4 @@
 # vk_bot_rawcrownz
-dm to vk.com/frvyz to test this bot
 
 this bot can:
 1. send memes
